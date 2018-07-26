@@ -1,0 +1,1 @@
+extern void foo(lua_State* L);

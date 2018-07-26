@@ -1,0 +1,6 @@
+-- configuration file
+width = 200
+height = 300
+background_red = 0.30
+background_green = 0.10
+background_blue = 0
